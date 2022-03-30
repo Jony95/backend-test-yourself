@@ -1,0 +1,15 @@
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.exe
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.deps.json
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.runtimeconfig.json
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.dll
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\bin\Debug\net6.0\ref\CodingTest.dll
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\bin\Debug\net6.0\CodingTest.pdb
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.csproj.AssemblyReference.cache
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfoInputs.cache
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.AssemblyInfo.cs
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.dll
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\ref\CodingTest.dll
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.pdb
+C:\Users\Accer\source\repos\backend-test-yourself\CodingTest\CodingTest\obj\Debug\net6.0\CodingTest.genruntimeconfig.cache
